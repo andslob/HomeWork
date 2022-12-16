@@ -1,4 +1,5 @@
-﻿int n = Convert.ToInt32(Console.ReadLine());
+﻿Console.Clear();
+int n = Convert.ToInt32(Console.ReadLine());
 int countDel = 0, i, j, k, m;
 for (i = 2; i <= n / 2; i++)
 {
