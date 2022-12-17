@@ -24,4 +24,4 @@ for (int n = 0; n < numbers.Length; n++)
     if (numbers[n] % 2 == 0)
         count++;
 }
-Console.WriteLine($"{count}");
+Console.WriteLine(count);
