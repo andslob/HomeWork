@@ -1,9 +1,9 @@
-﻿void InputArray(int[] array)
+﻿void Input(int[] n)
 {
-    for (int i = 0; i < array.Length; i++)
-        array[i] = new Random().Next(100, 1000);
+    for (int i = 0; i < n.Length; i++)
+        n[i] = new Random().Next(-100, 100);
 }
-void PrintArray(int[] numbers)
+void Print(int[] numbers)
 {
     for (int i = 0; i < numbers.Length; i++)
     {
@@ -11,17 +11,22 @@ void PrintArray(int[] numbers)
     }
     Console.WriteLine();
 }
+
+
+
 Console.Clear();
 Console.WriteLine("Введите размер массива");
 int size = Convert.ToInt32(Console.ReadLine());
-int[] numbers = new int[size];
-int count = 0;
-InputArray(numbers);
-PrintArray(numbers);
+int[] n = new int[size];
 
-for (int n = 0; n < numbers.Length; n++)
+int res = 0;
+for (int i = 0; i < n.Length; i++)
 {
-    if (numbers[n] % 2 == 0)
-        count++;
+    if (i % 2 == 0)
+        res = res + n[i];
 }
-Console.WriteLine(count);
+return res;
+Input(n);
+Console.Write(n);
+Print(n);
+Console.WriteLine(res);
