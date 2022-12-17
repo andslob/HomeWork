@@ -1,4 +1,4 @@
-﻿// Task 34
+﻿// Task 36
 
 void InputArray(int[] array)
 {
