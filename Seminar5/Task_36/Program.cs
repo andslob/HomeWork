@@ -1,9 +1,11 @@
-﻿void Input(int[] n)
+﻿// Task 34
+
+void InputArray(int[] array)
 {
-    for (int i = 0; i < n.Length; i++)
-        n[i] = new Random().Next(-100, 100);
+    for (int i = 0; i < array.Length; i++)
+        array[i] = new Random().Next(100, 1000);
 }
-void Print(int[] numbers)
+void PrintArray(int[] numbers)
 {
     for (int i = 0; i < numbers.Length; i++)
     {
@@ -11,22 +13,18 @@ void Print(int[] numbers)
     }
     Console.WriteLine();
 }
-
-
-
 Console.Clear();
 Console.WriteLine("Введите размер массива");
 int size = Convert.ToInt32(Console.ReadLine());
-int[] n = new int[size];
-
+int[] numbers = new int[size];
+int count = 0;
 int res = 0;
-for (int i = 0; i < n.Length; i++)
+InputArray(numbers);
+PrintArray(numbers);
+
+for (int n = 0; n < numbers.Length; n++)
 {
-    if (i % 2 == 0)
-        res = res + n[i];
+    if (n % 2 != 0) res = res + numbers[n];
+        count++;
 }
-return res;
-Input(n);
-Console.Write(n);
-Print(n);
 Console.WriteLine(res);
