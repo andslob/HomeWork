@@ -10,7 +10,7 @@ void PrintArray(int[] numbers)
     {
         Console.Write(numbers[i] + " ");
     }
-    Console.Write("]");
+    Console.Write(" ");
     Console.WriteLine();
 }
 Console.Clear();
