@@ -19,15 +19,16 @@ int size = Convert.ToInt32(Console.ReadLine());
 double[] numbers = new double[size];
 InputArray(numbers);
 PrintArray(numbers);
-double min = Convert.ToDouble(Console.ReadLine());
-double max = Convert.ToDouble(Console.ReadLine());
+double min = 0;
+double max = 0;
 
 for (int n = 0; n < numbers.Length; n++)
 {
-    if (min > numbers[n]) 
+    if (numbers[n] < min) 
         min = numbers[n];
         
-    if (max < numbers[n]) 
-        max = numbers[n];
+    else if (numbers[n] > max) 
+             max = numbers[n];
+             
 }
-Console.WriteLine($"{max - min}");
+Console.WriteLine(max - min);
