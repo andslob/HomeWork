@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\slobo\\GeekBrains\\Control_Version\\HomeWork\\Seminar2\\TaskDop\\TaskDop.csproj",
+      "projectUniqueName": "C:\\Users\\slobo\\OneDrive\\Рабочий стол\\GeekBrains\\Control_Version\\HomeWork\\Seminar2\\TaskDop\\TaskDop.csproj",
       "projectName": "TaskDop",
-      "projectPath": "C:\\Users\\slobo\\GeekBrains\\Control_Version\\HomeWork\\Seminar2\\TaskDop\\TaskDop.csproj",
+      "projectPath": "C:\\Users\\slobo\\OneDrive\\Рабочий стол\\GeekBrains\\Control_Version\\HomeWork\\Seminar2\\TaskDop\\TaskDop.csproj",
       "packagesPath": "C:\\Users\\slobo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\slobo\\GeekBrains\\Control_Version\\HomeWork\\Seminar2\\TaskDop\\obj\\",
+      "outputPath": "C:\\Users\\slobo\\OneDrive\\Рабочий стол\\GeekBrains\\Control_Version\\HomeWork\\Seminar2\\TaskDop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\slobo\\AppData\\Roaming\\NuGet\\NuGet.Config"
