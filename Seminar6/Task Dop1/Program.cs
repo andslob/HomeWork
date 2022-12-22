@@ -4,6 +4,7 @@ double Dist (double a1, double b1, double a2, double b2)
     double dist = Math.Sqrt(Math.Pow(a1 - a2, 2) + Math.Pow(b1 - b2, 2));
     return Math.Round(dist, 2);
 }
+
 double Area (double a, double b, double c)
 {
     double p = (a + b + c) / 2;
@@ -29,4 +30,4 @@ double a = Dist(x1, y1, x2, y2);
 double b = Dist(x2, y2, x3, y3);
 double c = Dist(x1, y1, x3, y3);
 Console.Write($"{a}  {b}  {c}");
-Console.WriteLine($"\n Площадь треугольника равна: {Area}");
+Console.WriteLine($"\nПлощадь треугольника равна: {Area}");
