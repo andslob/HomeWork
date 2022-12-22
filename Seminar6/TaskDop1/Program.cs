@@ -29,5 +29,5 @@ double y3 = Convert.ToDouble(Console.ReadLine());
 double a = Dist(x1, y1, x2, y2);
 double b = Dist(x2, y2, x3, y3);
 double c = Dist(x1, y1, x3, y3);
-Console.Write($"{a}  {b}  {c}");
+Console.Write($"Стороны равны: {a}  {b}  {c}");
 Console.WriteLine($"\nПлощадь треугольника равна: {Area}");

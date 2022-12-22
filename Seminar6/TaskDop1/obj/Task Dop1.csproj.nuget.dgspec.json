@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\slobo\\OneDrive\\Рабочий стол\\GeekBrains\\Control_Version\\HomeWork\\Seminar6\\Task Dop1\\Task Dop1.csproj": {}
+    "C:\\Users\\slobo\\OneDrive\\Рабочий стол\\GeekBrains\\Control_Version\\HomeWork\\Seminar6\\TaskDop1\\Task Dop1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\slobo\\OneDrive\\Рабочий стол\\GeekBrains\\Control_Version\\HomeWork\\Seminar6\\Task Dop1\\Task Dop1.csproj": {
+    "C:\\Users\\slobo\\OneDrive\\Рабочий стол\\GeekBrains\\Control_Version\\HomeWork\\Seminar6\\TaskDop1\\Task Dop1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slobo\\OneDrive\\Рабочий стол\\GeekBrains\\Control_Version\\HomeWork\\Seminar6\\Task Dop1\\Task Dop1.csproj",
+        "projectUniqueName": "C:\\Users\\slobo\\OneDrive\\Рабочий стол\\GeekBrains\\Control_Version\\HomeWork\\Seminar6\\TaskDop1\\Task Dop1.csproj",
         "projectName": "Task Dop1",
-        "projectPath": "C:\\Users\\slobo\\OneDrive\\Рабочий стол\\GeekBrains\\Control_Version\\HomeWork\\Seminar6\\Task Dop1\\Task Dop1.csproj",
+        "projectPath": "C:\\Users\\slobo\\OneDrive\\Рабочий стол\\GeekBrains\\Control_Version\\HomeWork\\Seminar6\\TaskDop1\\Task Dop1.csproj",
         "packagesPath": "C:\\Users\\slobo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slobo\\OneDrive\\Рабочий стол\\GeekBrains\\Control_Version\\HomeWork\\Seminar6\\Task Dop1\\obj\\",
+        "outputPath": "C:\\Users\\slobo\\OneDrive\\Рабочий стол\\GeekBrains\\Control_Version\\HomeWork\\Seminar6\\TaskDop1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\slobo\\AppData\\Roaming\\NuGet\\NuGet.Config"
