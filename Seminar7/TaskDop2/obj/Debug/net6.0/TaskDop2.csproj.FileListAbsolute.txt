@@ -1,0 +1,15 @@
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar7\TaskDop2\bin\Debug\net6.0\TaskDop2.exe
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar7\TaskDop2\bin\Debug\net6.0\TaskDop2.deps.json
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar7\TaskDop2\bin\Debug\net6.0\TaskDop2.runtimeconfig.json
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar7\TaskDop2\bin\Debug\net6.0\TaskDop2.dll
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar7\TaskDop2\bin\Debug\net6.0\TaskDop2.pdb
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar7\TaskDop2\obj\Debug\net6.0\TaskDop2.csproj.AssemblyReference.cache
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar7\TaskDop2\obj\Debug\net6.0\TaskDop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar7\TaskDop2\obj\Debug\net6.0\TaskDop2.AssemblyInfoInputs.cache
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar7\TaskDop2\obj\Debug\net6.0\TaskDop2.AssemblyInfo.cs
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar7\TaskDop2\obj\Debug\net6.0\TaskDop2.csproj.CoreCompileInputs.cache
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar7\TaskDop2\obj\Debug\net6.0\TaskDop2.dll
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar7\TaskDop2\obj\Debug\net6.0\refint\TaskDop2.dll
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar7\TaskDop2\obj\Debug\net6.0\TaskDop2.pdb
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar7\TaskDop2\obj\Debug\net6.0\TaskDop2.genruntimeconfig.cache
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar7\TaskDop2\obj\Debug\net6.0\ref\TaskDop2.dll
