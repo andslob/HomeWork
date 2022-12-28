@@ -18,38 +18,41 @@ void PrintMatrix(int[,] matrix)
     }
 }
 
-void SumRowElement(int[,] matrix, int[] array)
+void ArrayMultiplication(int[,] matrixA, int[,] matrixB, int[,] ResultArray)
 {
-    for (int k = 0; k < matrix.GetLength(0)-1; k++)
+    for (int i = 0; i < matrixA.GetLength(0); i++)
     {
-        for (int i = 0; i < matrix.GetLength(0); i++)
+        for (int j = 0; j < matrixA.GetLength(1); j++)
         {
-            for (int j = 0; j < matrix.GetLength(1); j++)
+            for (int m = 0; m < matrixB.GetLength(0); m++)
             {
-                array[k] = array[k] + matrix[i, j];
+                for (int n = 0; n < matrixB.GetLength(1); n++)
+                {   
+                    if(i == m && j == n)
+                    {             
+                        ResultArray[i, j] = matrixA[i, j] * matrixB[m, n];
+                        Console.Write($"{ResultArray[i, j]} \t");
+                    }
+                }
+                
+                
             }
-        }
-        int min = 0;
-        array[0] = min;
-        for (k = 1; k < matrix.GetLength(0); k++)
-        {
-            int temp = array[0];
-            if (array[k] < array[0])
-            {
-                min = array[k];
-            }
-            Console.WriteLine($"{min}-минимальная сумма, {k}-строка");
-        }
+        }       
     }
 }
-
 Console.Clear();
-Console.Write("Введите размер матрицы: ");
-int[] size = Console.ReadLine().Split(" ").Select(x => int.Parse(x)).ToArray();
-int[,] matrix = new int[size[0], size[1]];
-int k = 0;
-int[] array = new int[k];
-Console.WriteLine("Массив:");
-InputMatrix(matrix);
-PrintMatrix(matrix);
-SumRowElement(matrix, array);
+Console.Write("Введите размер матрицы A: ");
+int[] a = Console.ReadLine().Split(" ").Select(x => int.Parse(x)).ToArray();
+int[,] matrixA = new int[a[0], a[1]];
+Console.Write("Введите размер матрицы B: ");
+int[] b = Console.ReadLine().Split(" ").Select(x => int.Parse(x)).ToArray();
+int[,] matrixB = new int[b[0], b[1]];
+int[,] ResultArray = new int[matrixA.GetLength(0), matrixA.GetLength(1)];
+Console.WriteLine("Матрица А:");
+InputMatrix(matrixA);
+PrintMatrix(matrixA);
+Console.WriteLine("Матрица В:");
+InputMatrix(matrixB);
+PrintMatrix(matrixB);
+Console.WriteLine("Результирующая матрица:");
+ArrayMultiplication(matrixA, matrixB, ResultArray);
