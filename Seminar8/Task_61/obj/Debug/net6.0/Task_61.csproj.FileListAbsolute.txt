@@ -1,0 +1,15 @@
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar8\Task_61\bin\Debug\net6.0\Task_61.exe
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar8\Task_61\bin\Debug\net6.0\Task_61.deps.json
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar8\Task_61\bin\Debug\net6.0\Task_61.runtimeconfig.json
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar8\Task_61\bin\Debug\net6.0\Task_61.dll
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar8\Task_61\bin\Debug\net6.0\Task_61.pdb
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar8\Task_61\obj\Debug\net6.0\Task_61.csproj.AssemblyReference.cache
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar8\Task_61\obj\Debug\net6.0\Task_61.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar8\Task_61\obj\Debug\net6.0\Task_61.AssemblyInfoInputs.cache
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar8\Task_61\obj\Debug\net6.0\Task_61.AssemblyInfo.cs
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar8\Task_61\obj\Debug\net6.0\Task_61.csproj.CoreCompileInputs.cache
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar8\Task_61\obj\Debug\net6.0\Task_61.dll
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar8\Task_61\obj\Debug\net6.0\refint\Task_61.dll
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar8\Task_61\obj\Debug\net6.0\Task_61.pdb
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar8\Task_61\obj\Debug\net6.0\Task_61.genruntimeconfig.cache
+C:\Users\slobo\OneDrive\Рабочий стол\GeekBrains\Control_Version\HomeWork\Seminar8\Task_61\obj\Debug\net6.0\ref\Task_61.dll
