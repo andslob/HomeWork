@@ -33,9 +33,7 @@ void ArrayMultiplication(int[,] matrixA, int[,] matrixB, int[,] ResultArray)
                         ResultArray[i, j] = matrixA[i, j] * matrixB[m, n];
                         Console.Write($"{ResultArray[i, j]} \t");
                     }
-                }
-                
-                
+                }        
             }
         }       
     }
